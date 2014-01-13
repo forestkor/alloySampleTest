@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0002,"key":"button","style":{height:"50dp",width:"25%",borderWidth:1,borderColor:"#000",backgroundColor:"#a00",}},{"isId":true,"priority":100000.0003,"key":"label","style":{height:Ti.UI.SIZE,width:Ti.UI.SIZE,color:"#fff",font:{fontSize:"12dp",fontWeight:"bold",},touchEnabled:false,bubbleParent:false,}}];
