@@ -2,6 +2,6 @@
 	"sourcemap": false,
 	"adapters": ["sql"],
 	"dependencies": {
-		"ti.pedro.calendar": "1.0"
+		"ds.slideMenu":"0.1"
 	}
 }

@@ -1,1 +1,1 @@
-module.exports = [{"isId":true,"priority":100000.0014,"key":"index","style":{backgroundColor:"#fff",}}];
+module.exports = [{"isId":true,"priority":100000.001,"key":"win","style":{backgroundColor:"#FFF",}}];

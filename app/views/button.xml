@@ -1,5 +1,0 @@
-<Alloy>
-	<View onTouchstart="doTouchstart" onTouchend="doTouchend">
-		<Label id="label"/>
-	</View>
-</Alloy>

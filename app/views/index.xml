@@ -1,9 +1,5 @@
-
 <Alloy>
-	<Window class="container">
-        <View>
-  			<Widget id="is" src="ti.pedro.calendar"  />
-  			
-  		</View>
+	<Window id="win">
+		<Require type="widget" src="ds.slideMenu" id="ds"/>
 	</Window>
 </Alloy>

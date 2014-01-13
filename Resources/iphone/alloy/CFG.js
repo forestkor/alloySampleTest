@@ -1,1 +1,1 @@
-module.exports={"sourcemap":false,"adapters":["sql"],"dependencies":{"ti.pedro.calendar":"1.0"}};
+module.exports={"sourcemap":false,"adapters":["sql"],"dependencies":{"ds.slideMenu":"0.1"}};
